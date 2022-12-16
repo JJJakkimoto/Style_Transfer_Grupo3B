@@ -5,3 +5,5 @@
 # en el código además se facilita código para cargar directamente los datos de entrenamientos desde coco si se han descargado po
 # se puede también utilizar el código comentado para tal fin.
 # El código se encuentra organizado en secciones para facilitar la lectura
+# Finalmente se facilitan dos archivos de pesos para los decoder 1 y 2 debido a que los resultados eran muy volatiles con uno o el otro
+# sin embargo, se recomienda usar al versión con más épocas
